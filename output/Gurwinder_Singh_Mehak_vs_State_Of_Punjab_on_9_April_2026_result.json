@@ -1,0 +1,76 @@
+{
+  "file": "Gurwinder_Singh_Mehak_vs_State_Of_Punjab_on_9_April_2026.PDF",
+  "entities": {
+    "PETITIONER": [
+      "Gurwinder Singh @ Mehak",
+      "Gurwinder Singh @Mehak"
+    ],
+    "PRECEDENT": [
+      "Dataram versus State of Uttar Pradesh and another\", 2018(2) R.C.R. (Criminal) 131",
+      "Satender\nKumar Antil Vs. Central Bureau of Investigation and Another', (2022) 10 SCC 51",
+      "Tapas Kumar Palit Vs. State of Chhattisgarh', 2025 SCC Online SC 322",
+      "Balwinder Singh versus State of Punjab and Another\", 2024 SCC Online SC 4354"
+    ],
+    "RESPONDENT": [
+      "State Of Punjab"
+    ],
+    "JUDGE": [
+      "SURYA PARTAP SINGH"
+    ],
+    "COURT": [
+      "Supreme Court of India",
+      "HIGH COURT OF PUNJAB & HARYANA AT\nCHANDIGARH",
+      "Apex court"
+    ],
+    "LEGAL_TERM": [
+      "bail",
+      "FIR",
+      "Prima facie"
+    ],
+    "PROVISION": [
+      "Article 21",
+      "Section-23"
+    ],
+    "LOCATION": [
+      "India",
+      "Punjab"
+    ],
+    "CITATION": [
+      "(2022) 10 SCC 51"
+    ],
+    "CASE_NUMBER": [],
+    "STATUTE": [
+      "Narcotic Drugs and Psychotropic Substances Act",
+      "Bharatiya\nSakshya Adhiniyam",
+      "Constitution",
+      "Procedure Code",
+      "Constitution of India"
+    ],
+    "DATE": [
+      "9 April, 2026",
+      "16.09.2023",
+      "09.04.2026"
+    ],
+    "ORGANIZATION": [],
+    "AMOUNT": [
+      "Rs.13,50,000"
+    ]
+  },
+  "timing": {
+    "extraction_sec": 0.28,
+    "ner_sec": 2.57,
+    "summarization_sec": 9.33,
+    "verification_sec": 0.0,
+    "total_sec": 12.18
+  },
+  "summary": "Petitioner Gurwinder Singh @ Mehak vs State Of Punjab on 9 April, 2026. The petition for bail is the first petition, filed by the petitioner under Section 483 of 'the Bharatiya Nagarik Suraksha Sanhita, 2023' It has been filed with regard to a case arising out of FIR No.166 dated 16.09.2023, for the commission of offence punishable under Narcotic Drugs and Psychotropic Substances Act. The petitioner is ordered to be released on bail on furnishing personal bond and surety bond(s) to the satisfaction of learned trial Court. The bail conditions include that the petitioner shall not directly or indirectly make any inducement, threat orprompromotion to any person in relation to the case, so as to dissuade him from going to trial or to any other authority; and that he shall notify the Court at the time of execution of the bond that he will not leave India without prior permission of the Court.",
+  "verification": {
+    "hallucinated_provisions": [],
+    "missing_entities": [],
+    "verified_provisions": [
+      "section 483"
+    ],
+    "overall_status": "VERIFIED",
+    "flags": []
+  }
+}

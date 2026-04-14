@@ -1,0 +1,96 @@
+{
+  "file": "Chandan_Digambar_Pawaskar_vs_Tanvi_Dattaraj_Gad_on_10_April_2026.PDF",
+  "entities": {
+    "CASE_NUMBER": [
+      "FIRST APPEAL NO.16 OF 2026",
+      "MISCELLANEOUS CIVIL APPLICATION NO.196 OF 2026"
+    ],
+    "PETITIONER": [
+      "Chandan Digambar Pawaskar"
+    ],
+    "ORGANIZATION": [],
+    "RESPONDENT": [
+      "Tanvi Dattaraj Gad"
+    ],
+    "CITATION": [
+      "2026:BHC-GOA:774",
+      "2016 SCC OnLine HP 379"
+    ],
+    "STATUTE": [
+      "CPC",
+      "Hindu Marriage Act",
+      "Civil Procedure Code",
+      "Portuguese Civil Code, 1867",
+      "Portuguese Civil Code",
+      "Hindu Marriage Act at Shimla",
+      "Marriage Laws (Amendment) Act, 1976",
+      "Code of Civil Procedure"
+    ],
+    "PROVISION": [
+      "Section 10",
+      "Section 12",
+      "Section 13",
+      "Article 4(4)",
+      "Order 9 Rule 13",
+      "Section 23-A",
+      "Section 21-A",
+      "Section 14",
+      "Sections 22 to 25",
+      "Sections 9, 11 or 12"
+    ],
+    "AMOUNT": [],
+    "JUDGE": [
+      "VALMIKI MENEZES"
+    ],
+    "DATE": [
+      "10th April 2026",
+      "10 April, 2026",
+      "06.05.2023"
+    ],
+    "LEGAL_TERM": [
+      "divorce",
+      "ill-treatment",
+      "affidavit",
+      "summons",
+      "ex parte",
+      "injuria grave"
+    ],
+    "COURT": [
+      "Mapusa Court",
+      "Quepem Court",
+      "HIGH COURT OF BOMBAY AT GOA",
+      "Civil Judge Senior Division at Quepem",
+      "Quepem Court (South Goa District)",
+      "High Court of Himachal Pradesh",
+      "Himachal High Court"
+    ],
+    "LOCATION": [
+      "Mapusa",
+      "Pune",
+      "Shimla",
+      "Solan"
+    ],
+    "PRECEDENT": [
+      "Veepul Lakhanpal v/s Smt, Pooja.1 2016 SCC OnLine HP 379"
+    ]
+  },
+  "timing": {
+    "extraction_sec": 0.64,
+    "ner_sec": 10.34,
+    "summarization_sec": 10.13,
+    "verification_sec": 0.0,
+    "total_sec": 21.1
+  },
+  "summary": "Chandan Digambar Pawaskar vs Tanvi Dattaraj Gad on 10 April, 2026. The Appeal stands dismissed. The appeal is directed against the Judgment and decree dated 06.05.2023 passed by the Civil Judge Senior Division at Quepem (hereinafter referred to as 'Quepem Court') in Mat Appellant claims that since he resides within the jurisdiction of the Mapusa Court, it was the duty of that Court, which was aware of the pendency of the matrimonial suit, to inform him either by email or by a phone call, of the summons issued by the second Court. Neither of these arguments are accepted to hold that the Appellants has been improperly served. The First Appeal was heard through V.C. Ashwini Agni, Advocate with Ms. Rajlaxmi Bhatkar, Ms Afin.Harihar Khanm, Mr. Junaid Shaikh and Mr. V. Salkar, Advocatesfor the Respondent.",
+  "verification": {
+    "hallucinated_provisions": [],
+    "missing_entities": [
+      "JUDGE"
+    ],
+    "verified_provisions": [],
+    "overall_status": "WARNING",
+    "flags": [
+      "[WARN] JUDGE 'VALMIKI MENEZES' found by NER but not mentioned in summary"
+    ]
+  }
+}

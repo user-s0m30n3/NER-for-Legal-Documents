@@ -1,0 +1,106 @@
+{
+  "file": "Gena_Ram_vs_State_Of_Rajasthan_2026_Rj_Jd_16674_on_9_April_2026.PDF",
+  "entities": {
+    "PETITIONER": [
+      "Gena Ram",
+      "Vala Ram",
+      "Gena Ram Police Station Ranjeetpura, Bikaner"
+    ],
+    "PRECEDENT": [
+      "Vinod Kumar Vs.",
+      "Kallu Nath Vs."
+    ],
+    "RESPONDENT": [
+      "State Of Rajasthan"
+    ],
+    "JUDGE": [
+      "NUPUR BHATI"
+    ],
+    "COURT": [
+      "HIGH COURT OF JUDICATURE FOR RAJASTHAN AT\nJODHPUR"
+    ],
+    "LEGAL_TERM": [
+      "bail"
+    ],
+    "PROVISION": [
+      "Section 37",
+      "Sections 19, 24 or 27A",
+      "Section 18",
+      "Clause (c) of Section 18",
+      "Section 8(b)",
+      "Sub-clause (c)",
+      "Section 20",
+      "Section 8 (b)",
+      "Sub-clause (b)\nof Section 18",
+      "category (c) of Section 18",
+      "sub-clause (a)",
+      "sub-clause (b)",
+      "sub- clause (c) of Section 18",
+      "Section 2",
+      "clause (iii)",
+      "sub-clause (b) of clause (iii)",
+      "Sub-clause (viia) of Section 2",
+      "subclause (b)of Section 8",
+      "sub clause (b),-- (A)",
+      "clause (a) of Section 20",
+      "clause (b) of Section 20",
+      "Section 20(a)(i)",
+      "Section37",
+      "Sub- clause (viia) of Section 2",
+      "subclause (b) of Section 8",
+      "Section 18(c)"
+    ],
+    "LOCATION": [
+      "Gundagiri",
+      "Pali"
+    ],
+    "CITATION": [
+      "2026:RJ-JD:16674"
+    ],
+    "CASE_NUMBER": [
+      "Rj-Jd:16674)"
+    ],
+    "STATUTE": [
+      "NDPS Act",
+      "N.D.P.S. Act",
+      "Narcotic Drugs and Psychotropic Substances Act, 1985",
+      "N.D.P.S.\nAct",
+      "S.B. Criminal Misc"
+    ],
+    "DATE": [
+      "9 April, 2026",
+      "19th October, 2001",
+      "25.05.2022"
+    ],
+    "ORGANIZATION": [
+      "State of Rajasthan",
+      "Central Government"
+    ],
+    "AMOUNT": [
+      "Rs.50,000",
+      "Rs.25,000"
+    ]
+  },
+  "timing": {
+    "extraction_sec": 0.51,
+    "ner_sec": 7.86,
+    "summarization_sec": 9.66,
+    "verification_sec": 0.0,
+    "total_sec": 18.03
+  },
+  "summary": "Gena Ram vs State Of Rajasthan (2026:Rj-Jd:16674) on 9 April, 2026. The instant bail application has been filed by the petitioner under Section 483 BNSS. Counsel for the petitioner submits that the petitioner has been falsely implicated in the present case. It is alleged that upon search, the petitioner was found cultivating poppy plants in his agricultural field. The embargo of Section 37 of the NDPS Act would not come in the way of granting bail to the petitioner. The accused, Gena Ram, shall be released on bail; he furnishes a personal bond in the sum of Rs50,000/reties of two sureties. (At the time of this hearing, the accused was present Lodged In Central Jail, Bikaner.) The bail application is allowed and the accused will return to the High Court in the near future to face trial for the charge of possession of opium poppy plants. The case is adjourned until the next hearing on April 16.",
+  "verification": {
+    "hallucinated_provisions": [],
+    "missing_entities": [
+      "JUDGE"
+    ],
+    "verified_provisions": [
+      "section 483",
+      "section 37"
+    ],
+    "overall_status": "WARNING",
+    "flags": [
+      "[WARN] JUDGE 'NUPUR BHATI' found by NER but not mentioned in summary"
+    ]
+  }
+}
