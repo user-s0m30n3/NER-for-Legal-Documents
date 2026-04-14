@@ -2,3 +2,4 @@ venv/
 *.whl
 dist/
 build/
+data/temp_uploads/
